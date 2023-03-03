@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quest</string>
+    <string name="answer">Input answer</string>
+    <string name="submit">submit</string>
+</resources>
